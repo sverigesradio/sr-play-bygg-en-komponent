@@ -14,7 +14,7 @@ Här är en guide för att komma igång med projektet. Kontakta oss om något in
 1. Klona detta repo
 
 ```bash
-git clone https://github.com/natlus/sr-play-bygg-en-komponent.git
+git clone https://github.com/sverigesradio/sr-play-bygg-en-komponent.git
 ```
 
 2. Installera beroenden
