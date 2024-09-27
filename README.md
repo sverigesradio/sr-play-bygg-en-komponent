@@ -7,7 +7,8 @@ Här är en guide för att komma igång med projektet. Kontakta oss om något in
 - [Node.js](https://nodejs.org/en/)
 - [Bun](https://bun.sh/)
 - [Git](https://git-scm.com/)
-- Glas vatten
+- [VSCode](https://code.visualstudio.com/) eller annan editor (gärna med [Prettier](https://prettier.io/docs/en/editors) för formattering)
+- Ett glas vatten
 
 ## Starta
 
