@@ -1,6 +1,8 @@
 # Kom igång
 
 Här är en guide för att komma igång med projektet. Kontakta oss om något inte fungerar eller är otydligt 😊
+Nedan finns instruktioner för att sätta upp projektet. Förbered gärna detta innan vi ses.
+När vi ses kommer du att få en uppgift och vidare instruktioner.
 
 ## Förutsättningar
 
