@@ -1,4 +1,4 @@
-export function PlayIcon() {
+export function PauseIcon() {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -19,7 +19,7 @@ export function PlayIcon() {
         <path fill="#d9d9d9" d="M0 0h24v24H0z" />
       </mask>
       <g mask="url(#a)">
-        <path fill="#3c4c69" d="M8.5 18.096V5.904L18.077 12z" />
+        <path fill="#3c4c69" d="M14 18.5v-13h3.75v13zm-7.75 0v-13H10v13z" />
       </g>
     </svg>
   );

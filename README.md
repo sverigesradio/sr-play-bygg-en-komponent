@@ -1,33 +1,46 @@
 # Kom igång
 
-Här är en guide för att komma igång med projektet. Kontakta oss om något inte fungerar eller är otydligt 😊
-Nedan finns instruktioner för att sätta upp projektet. Förbered gärna detta innan vi ses.
-När vi ses kommer du att få en uppgift och vidare instruktioner.
+Detta repo används som en del av vår tekniska arbetsintervju.  
+Här hittar du allt du behöver för att förbereda din miljö innan vi ses.  
+Om något känns oklart eller inte fungerar – hör gärna av dig! 😊
+
+När vi ses kommer du att få en uppgift och vidare instruktioner baserade på detta projekt.
 
 ## Förutsättningar
 
-- [Node.js](https://nodejs.org/en/)
-- [Bun](https://bun.sh/)
-- [Git](https://git-scm.com/)
-- [VSCode](https://code.visualstudio.com/) eller annan editor (gärna med [Prettier](https://prettier.io/docs/en/editors) för formattering)
-- Ett glas vatten
+Se till att följande verktyg är installerade:
 
-## Starta
+- <https://git-scm.com/> – för versionshantering
+- <https://nodejs.org/en/> – runtime-miljö
+- <https://bun.sh/> – pakethanterare och dev-server
+- <https://code.visualstudio.com/> eller valfri editor
+- <https://www.figma.com/> – för designunderlag
 
-1. Klona detta repo
+## Länkar
 
-```bash
-git clone https://github.com/sverigesradio/sr-play-bygg-en-komponent.git
-```
+- **API-endpoint:**  
+  <https://podservice.sr.se/episodes/2677663>
+- **Figma-projekt:**  
+  <https://www.figma.com/design/mSKWODIx8oSHzbNx7RYRul/Teknisk-arbetsintervju?node-id=0-1&t=9bzC1YZs2xIBk6Pk-1>
 
-2. Installera beroenden
+## Kom igång
 
-```bash
-bun install
-```
+1.  **Klona detta repo**
 
-3. Starta appen
+    ```bash
+    git clone https://github.com/sverigesradio/sr-play-bygg-en-komponent.git
+    ```
 
-```bash
-bun dev
-```
+2.  **Installera beroenden**
+
+    ```bash
+    bun install
+    ```
+
+3.  **Starta utvecklingsmiljön**
+
+    ```bash
+    bun dev
+    ```
+
+När appen är igång kan du öppna projektet i valfri editor och börja utforska koden.
