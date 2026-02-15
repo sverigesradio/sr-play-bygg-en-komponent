@@ -1,8 +1,6 @@
 # Kom igång
 
-Detta repo används som en del av vår tekniska arbetsintervju.  
-Här hittar du allt du behöver för att förbereda din miljö innan vi ses.  
-Om något känns oklart eller inte fungerar – hör gärna av dig! 😊
+Detta repo används som en del av vår tekniska arbetsintervju. Här hittar du allt du behöver för att förbereda din miljö innan vi ses. Om något känns oklart eller inte fungerar – hör gärna av dig! 😊
 
 När vi ses kommer du att få en uppgift och vidare instruktioner baserade på detta projekt.
 
@@ -42,5 +40,3 @@ Se till att följande verktyg är installerade:
     ```bash
     bun dev
     ```
-
-När appen är igång kan du öppna projektet i valfri editor och börja utforska koden.
